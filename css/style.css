@@ -1,18 +1,23 @@
-body {
-  background-color: #ADD8E6;
+#title {
+  font-size: 75px;
+  font-family: Lobster;
+  color: purple;
+}
+#image {
+  
 }
 
-
-p {
+#bio {
   text-align: center;
   font-size: 25px;
   color: blue;
 }
-ul {
+
+#chrono {
   text-align: left;
   font-size: 20px;
 }
-a.center {
-  text-align: center;
-  
+
+body {
+  background-color: #ADD8E6;
 }
